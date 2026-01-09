@@ -1,3 +1,9 @@
 [submodule "aw-webui"]
 	path = aw-webui
-	url = https://github.com/ActivityWatch/aw-webui.git
+	url = git@github.com:ncc-sg-komutracker/aw-webui.git
+[submodule "aw-watcher-afk"]
+	path = aw-watcher-afk
+	url = git@github.com:ncc-sg-komutracker/aw-watcher-afk.git
+[submodule "aw-watcher-window"]
+	path = aw-watcher-window
+	url = git@github.com:ncc-sg-komutracker/aw-watcher-window.git
